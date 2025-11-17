@@ -1,0 +1,1 @@
+worker: python scrape_regcap.py
